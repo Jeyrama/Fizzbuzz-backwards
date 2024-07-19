@@ -28,3 +28,10 @@ Examples:
 
 
 // Solution
+
+function reverseFizzBuzz(array) {
+  let fizz = (array.indexOf("Fizz") + 1) ? array.indexOf("Fizz") + 1 : array.indexOf("FizzBuzz")+1;
+  let buzz = (array.indexOf("Buzz") + 1) ? array.indexOf("Buzz") + 1 : array.indexOf("FizzBuzz")+1;
+
+return [fizz,buzz];
+};
