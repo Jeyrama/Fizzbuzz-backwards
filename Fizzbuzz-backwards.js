@@ -35,3 +35,5 @@ function reverseFizzBuzz(array) {
 
 return [fizz,buzz];
 };
+
+// or
