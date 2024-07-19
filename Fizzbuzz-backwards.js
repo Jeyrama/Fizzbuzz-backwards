@@ -25,3 +25,6 @@ Examples:
   Fizz = 1, Buzz = 6:
     ["Fizz", "Fizz", "Fizz", "Fizz", "Fizz", "FizzBuzz"]  ==>  [1, 6]
 */
+
+
+// Solution
